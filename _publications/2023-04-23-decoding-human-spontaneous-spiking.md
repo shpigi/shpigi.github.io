@@ -8,9 +8,8 @@ venue: 'iScience'
 paperurl: 'https://www.cell.com/iscience/fulltext/S2589-0042(23)00468-6'
 citation: 'Shpigelman L. (2023). &quot;Decoding human spontaneous spiking activity in medial temporal lobe from scalp EEG.&quot; <i>iScience</i>.'
 ---
-
-<a href='https://www.cell.com/iscience/fulltext/S2589-0042(23)00468-6'>Download paper here</a>
-
 Linking scalp electroencephalography (EEG) signals and spontaneous firing activity from deep nuclei in humans is not trivial. This study analyzed simultaneous recordings of scalp EEG and unit activity in medial temporal lobe areas (amygdala and hippocampus). Using linear regression models, the research demonstrated that changes in neuronal firing activity could be estimated from EEG frequency modulations, revealing region-specific dynamics during wakefulness and non-REM sleep.
+
+[Download paper here](https://www.cell.com/iscience/fulltext/S2589-0042(23)00468-6)
 
 Recommended citation: Shpigelman L. (2023). "Decoding human spontaneous spiking activity in medial temporal lobe from scalp EEG." <i>iScience</i>.
