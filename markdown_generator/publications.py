@@ -106,3 +106,5 @@ for row, item in publications.iterrows():
         f.write(md)
 
 
+
+# %%

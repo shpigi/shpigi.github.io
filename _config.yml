@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/shpigi/"
+  linkedin         : "shpigi"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -83,6 +83,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  patents:
+    title: 'Patents'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -225,6 +227,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  patents:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -282,6 +287,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _patents
+  - scope:
+      path: ""
+      type: patents
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 
 # Sass/SCSS
