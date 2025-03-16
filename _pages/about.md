@@ -9,7 +9,7 @@ redirect_from:
 
 ## Machine Learning Researcher & Developer
 
-With a strong foundation in Computer science, a PhD in computational neuroscience (brain-computer interfaces) and 16+ years of experience applying ML in industry ([IBM Research](https://research.ibm.com/labs/israel), [Kindred.ai](https://www.ocadogroup.com/investors/ocado-acquires-kindred-systems-and-haddington-dynamics) and now as part of [Ocado Technology](https://www.ocadogroup.com/solutions/our-technology)) I currently explore the use of ML to make robots behave intelligently.
+With a strong foundation in Computer science, a PhD in computational neuroscience (brain-computer interfaces) and 16+ years of experience applying ML in industry ([IBM Research](https://research.ibm.com/labs/israel), [Kindred.ai](https://www.ocadogroup.com/investors/ocado-acquires-kindred-systems-and-haddington-dynamics) and now at [Ocado Technology](https://www.ocadogroup.com/solutions/our-technology)) I currently explore the use of ML to make robots behave intelligently.
 
 ## Research Interests
 Deep Learning<br>
@@ -20,12 +20,12 @@ Healthcare
 
 ## Education
 
-**Ph.D. in Computational Neuroscience** | [Hebrew University of Jerusalem](https://elsc.huji.ac.il/) | 2001 - 2008  
+**Doctoral Degree** | Computational Neuroscience | [Hebrew University of Jerusalem](https://elsc.huji.ac.il/) | 2001 - 2008  
 Kernel-based machine learning methods for neural brain-machine interfaces.<br>
 Developed and tested online ML algorithms to predict hand movements from invasive neural recordings in a closed-loop adaptive brain-computer interface.<br>
 Advisors: [Prof. Eilon Vaadia](https://elsc.huji.ac.il/people-directory/faculty-members/eilon-vaadia) and [Prof. Yoram Singer](https://simons.berkeley.edu/people/yoram-singer)
 
-**Bachelor's Degree in Computer Science** | [Technion – Israel](https://cs.technion.ac.il/) | 1997 - 2000  
+**Undergraduate Degree** | Computer Science | [Technion – Israel](https://cs.technion.ac.il/) | 1997 - 2000  
 Graduated Cum Laude
 
 ## Services
