@@ -23,7 +23,7 @@ Healthcare
 **Doctoral Degree** | Computational Neuroscience | [Hebrew University of Jerusalem](https://elsc.huji.ac.il/) | 2001 - 2008  
 Kernel-based machine learning methods for neural brain-machine interfaces.<br>
 Developed and tested online ML algorithms to predict hand movements from invasive neural recordings in a closed-loop adaptive brain-computer interface.<br>
-Advisors: [Prof. Eilon Vaadia](https://elsc.huji.ac.il/people-directory/faculty-members/eilon-vaadia) and [Prof. Yoram Singer](https://simons.berkeley.edu/people/yoram-singer)
+Advisors: [Eilon Vaadia](https://elsc.huji.ac.il/people-directory/faculty-members/eilon-vaadia) and Yoram Singer
 
 **Undergraduate Degree** | Computer Science | [Technion – Israel](https://cs.technion.ac.il/) | 1997 - 2000  
 Graduated Cum Laude
