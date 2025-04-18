@@ -11,8 +11,7 @@ author_profile: true
 * Developed machine learning models for robotic control, including data processing pipelines for training control models such as Diffusion Policy and ACT models. 
 * Designed scalable data processing and training pipelines for classification tasks like double pick detection and item recognition. Collaborated with an inventory recognition team to reduce double picks, achieving an 80% recall rate with minimal impact on system throughput.
 * Built A/B testing analysis tools and advocated for the integration of performance monitoring tools.
-* Partnered with cross-functional teams to implement ML training pipelines.
-* Mentored colleagues and interns on machine learning projects.
+* Partnered with cross-functional teams to implement ML training pipelines. Mentored colleagues and interns on machine learning tools.
 
 ## Staff Machine Learning Engineer <span style="float: right; font-size: 0.8em; font-style: italic;">Sep 2017 - Oct 2022</span>
 ### Kindred, Part of Ocado Group
