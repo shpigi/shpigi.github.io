@@ -6,11 +6,7 @@ excerpt: 'Introduced a temporal kernel-based system for dynamic hand-tracking fr
 date: 2004-01-01
 venue: 'Advances in Neural Information Processing Systems (NIPS)'
 paperurl: 'https://papers.neurips.cc/paper_files/paper/2004/hash/f35a2bc72dfdc2aae569a0c7370bd7f5-Abstract.html'
-citation: 'Shpigelman L. (2004). &quot;A Temporal Kernel-Based Model for Tracking Hand Movements from Neural Activities.&quot; <i>Advances in Neural Information Processing Systems</i>.'
+citation: 'Shpigelman et al (2004). &quot;A Temporal Kernel-Based Model for Tracking Hand Movements from Neural Activities.&quot; <i>Advances in Neural Information Processing Systems</i>.'
 category: 'conferences'
 ---
 Introduced a temporal kernel-based system for dynamic hand-tracking from neural activity. Showcased superior accuracy over static methods, enabling effective BMI-based motor control in real-time experiments.
-
-[Download paper here](https://papers.neurips.cc/paper_files/paper/2004/hash/f35a2bc72dfdc2aae569a0c7370bd7f5-Abstract.html)
-
-Recommended citation: Shpigelman L. (2004). "A Temporal Kernel-Based Model for Tracking Hand Movements from Neural Activities." <i>Advances in Neural Information Processing Systems</i>.

@@ -9,5 +9,3 @@ citation: 'Shpigelman and El-Hay (2012). &quot;Estimating BOLD Signals of Deep B
 category: 'manuscripts'
 ---
 Developed a method to estimate deep brain network activity using EEG signals through Canonical Correlation Analysis, linking EEG and BOLD signals to better understand neural activity in various psychological states.
-
-Recommended citation: Shpigelman and El-Hay (2012). "Estimating BOLD Signals of Deep Brain Networks From EEG using Canonical Correlation Analysis." <i>OHBM</i>.

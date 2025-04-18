@@ -10,7 +10,3 @@ citation: 'Rosen-Zvi at al(2014). &quot;Estimating the impact of prevention acti
 category: 'manuscripts'
 ---
 Proposed a Bayesian simulation model for estimating cervical cancer prevalence and prevention impacts in East Africa. The model provided actionable insights into vaccination and screening strategies to reduce disease levels based on partial reports and demographic data.
-
-[Download paper here](https://ebooks.iospress.nl/publication/37494)
-
-Recommended citation: Rosen-Zvi at al (2014). "Estimating the impact of prevention action: a simulation model of cervical cancer progression." <i>MIE</i>.

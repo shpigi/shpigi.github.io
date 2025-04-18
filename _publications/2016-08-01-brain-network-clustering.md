@@ -10,7 +10,3 @@ citation: 'Raz et al (2016). &quot;Psychophysiological whole-brain network clust
 category: 'manuscripts'
 ---
 Introduced a novel method, CRNDA, for delineating context-dependent functional brain networks based on connectivity dynamics analysis. Applied to fMRI data, the study identified networks aligned with emotional intensity during naturalistic stimuli, revealing empathy-related and functional processing networks.
-
-[Download paper here](https://pmc.ncbi.nlm.nih.gov/articles/PMC6867387/)
-
-Recommended citation: Raz et al (2016). "Psychophysiological whole-brain network clustering based on connectivity dynamics analysis in naturalistic conditions." <i>Human Brain Mapping</i>.
