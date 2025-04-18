@@ -1,5 +1,6 @@
 ---
 title: "A Temporal Kernel-Based Model for Tracking Hand Movements from Neural Activities"
+Authors: Lavi Shpigelman, Koby Crammer, Rony Paz, Eilon Vaadia, Yoram Singer
 collection: publications
 permalink: /publication/2004-01-01-temporal-kernel-hand-tracking
 excerpt: 'Introduced a temporal kernel-based system for dynamic hand-tracking from neural activity. Showcased superior accuracy over static methods, enabling effective BMI-based motor control in real-time experiments.'
