@@ -8,13 +8,14 @@ redirect_from:
 ---
 
 
-I am Machine Learning Researcher and Engineer currently working in the field of intelligent Robotics. I havea strong foundation in computer science, a PhD in computational neuroscience (brain-computer interfaces), and 16+ years of experience applying ML in industry ([IBM Research](https://research.ibm.com/labs/israel), [Kindred.ai](https://www.ocadogroup.com/investors/ocado-acquires-kindred-systems-and-haddington-dynamics), and now [Ocado Technology](https://www.ocadogroup.com/solutions/our-technology))/
+I am machine learning researcher and rngineer currently working in the field of intelligent Robotics. I have a strong foundation in computer science, a PhD in computational neuroscience (brain-computer interfaces), and 16+ years of experience applying ML in industry ([IBM Research](https://research.ibm.com/labs/israel), [Kindred.ai](https://www.ocadogroup.com/investors/ocado-acquires-kindred-systems-and-haddington-dynamics), and now [Ocado Technology](https://www.ocadogroup.com/solutions/our-technology))
 
 ## Research Interests
 Deep Learning<br>
-Agentic systems<br>
+Agentic Systems<br>
 Robotics, Vision, Control<br>
-Generative foundational models, Reinforcement Learning<br>
+Generative / Foundational Models,
+Reinforcement Learning<br>
 Brain-Computer Interaction, Neuroscience<br>
 Healthcare
 
