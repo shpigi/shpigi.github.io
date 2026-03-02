@@ -9,12 +9,13 @@ redirect_from:
 
 ## Machine Learning Researcher & Developer
 
-With a strong foundation in Computer science, a PhD in computational neuroscience (brain-computer interfaces) and 16+ years of experience applying ML in industry ([IBM Research](https://research.ibm.com/labs/israel), [Kindred.ai](https://www.ocadogroup.com/investors/ocado-acquires-kindred-systems-and-haddington-dynamics) and now at [Ocado Technology](https://www.ocadogroup.com/solutions/our-technology)) I currently explore the use of ML to make robots behave intelligently.
+With a strong foundation in computer science, a PhD in computational neuroscience (brain-computer interfaces), and 16+ years of experience applying ML in industry ([IBM Research](https://research.ibm.com/labs/israel), [Kindred.ai](https://www.ocadogroup.com/investors/ocado-acquires-kindred-systems-and-haddington-dynamics), and now [Ocado Technology](https://www.ocadogroup.com/solutions/our-technology)), I currently explore the use of ML to make robots behave intelligently.
 
 ## Research Interests
 Deep Learning<br>
+Agentic systems<br>
 Robotics, Vision, Control<br>
-Generative models, Reinforcement Learning<br>
+Generative foundational models, Reinforcement Learning<br>
 Brain-Computer Interaction, Neuroscience<br>
 Healthcare
 
@@ -34,12 +35,12 @@ Reviewer, ICLR 2023 - 2025<br>
 Reviewer, ICML 2010 - 2025<br>
 Reviewer, NeurIPS 2007 - 2024<br>
 Reviewer, AISTATS 2010 - 2019<br>
-Reviewer, Journal of Newroengineering 2004 - 2016
+Reviewer, Journal of Neuroengineering 2004 - 2016
 
 ## Skills
 
-**Machine Learning & Research:**<span style="margin-left: 20px">Deep Learning • PyTorch • TensorFlow • Scikit Learn • Reinforcement Learning • Computer Vision • Neural Networks • Transformers • Diffusion methods • A/B testing • fMRI • EEG • Dynamical Systems • Contrastive methods</span>
+**Machine Learning & Research:**<span style="margin-left: 20px">Deep Learning • PyTorch • TensorFlow • Scikit-learn • Reinforcement Learning • Computer Vision • Neural Networks • Transformers • Diffusion methods • A/B testing • fMRI • EEG • Dynamical Systems • Contrastive methods</span>
 
 **Cloud Platforms & MLOps:** <span style="margin-left: 20px">Google Cloud Platform (GCP) • AWS • Vertex AI • Ray • BigQuery • CI/CD • Docker • Git • Linux</span>
 
-**Soft Skills** <span style="margin-left: 20px">Technical Leadership • Problem Solving • Communication • Presentations • Mentoring • Project Management • Enabling approach</span>
+**Soft Skills:** <span style="margin-left: 20px">Technical Leadership • Problem Solving • Communication • Presentations • Mentoring • Project Management • Enabling approach</span>
