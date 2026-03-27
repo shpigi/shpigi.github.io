@@ -38,15 +38,15 @@
       {% if post.authors %}
         <p style="margin-top: -0.3em; font-style: italic; font-size: 0.9em;">{{ post.authors }}</p>
       {% endif %}
-      <details style="margin: 0.5em 0;">
-        <summary style="cursor: pointer;">Abstract &amp; Details</summary>
-        <div style="margin: 0.5em 0 0.5em 1em; border-left: 3px solid #ddd; padding-left: 1em; font-size: 0.9em;">
-          {% if post.excerpt %}
+      <p style="margin-top: -0.3em; font-size: 0.9em;"><em>{{ post.venue }}</em>{% if post.pages %}, {{ post.pages }}{% endif %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+      {% if post.excerpt %}
+        <details style="margin: 0.5em 0;">
+          <summary style="cursor: pointer;">Abstract</summary>
+          <div style="margin: 0.5em 0 0.5em 1em; border-left: 3px solid #ddd; padding-left: 1em; font-size: 0.9em;">
             <p>{{ post.excerpt }}</p>
-          {% endif %}
-          <p><em>{{ post.venue }}</em>{% if post.pages %}, {{ post.pages }}{% endif %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
-        </div>
-      </details>
+          </div>
+        </details>
+      {% endif %}
 
     {% else %}
 
