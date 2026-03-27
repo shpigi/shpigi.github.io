@@ -36,11 +36,11 @@
         {% endif %}
       </h2>
       {% if post.authors %}
-        <p style="margin-top: -0.3em; font-style: italic; font-size: 0.9em;">{{ post.authors }}</p>
+        <p style="margin-top: -0.3em; margin-bottom: 0; font-style: italic; font-size: 0.9em;">{{ post.authors }}</p>
       {% endif %}
-      <p style="margin-top: -0.3em; font-size: 0.9em;"><em>{{ post.venue }}</em>{% if post.pages %}, {{ post.pages }}{% endif %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+      <p style="margin-top: 0.1em; margin-bottom: 0; font-size: 0.9em;"><em>{{ post.venue }}</em>{% if post.pages %}, {{ post.pages }}{% endif %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
       {% if post.excerpt %}
-        <details style="margin: 0.5em 0;">
+        <details style="margin-top: 0.2em; margin-bottom: 0.5em;">
           <summary style="cursor: pointer;">Abstract</summary>
           <div style="margin: 0.5em 0 0.5em 1em; border-left: 3px solid #ddd; padding-left: 1em; font-size: 0.9em;">
             <p>{{ post.excerpt }}</p>
